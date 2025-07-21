@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I'm Vaishnavi ✨<br> just a girl trying to learn, build, repeat 💻  <br>sometimes it works, sometimes... we ChatGPT 😅<br><br>-🌱 really into backend stuff<br>-🛠️ building things that fix a problem or just look really cool <br>-🤍 let’s connect if you're into tech + chill vibes <br>
+## Hi, I'm Vaishnavi ✨
+<br> just a girl trying to learn, build, repeat 💻  <br>sometimes it works, sometimes... we ChatGPT 😅<br><br>-🌱 really into backend stuff<br>-🛠️ building things that fix a problem or just look really cool <br>-🤍 let’s connect if you're into tech + chill vibes <br>
 
 
 ## 🌐 Socials:
