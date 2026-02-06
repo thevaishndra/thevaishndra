@@ -1,6 +1,7 @@
 ## Hi, I'm Vaishnavi ✨
-<br> just a girl trying to learn and build cool stuff 💻  <br>sometimes it works, sometimes... we ChatGPT 😅<br><br>-🌱 really into backend <br>-🎶 when not coding, you’ll find me either sleeping, reading, or lost in music, films <br>-🤍 let’s connect if you're into tech <br>
-
+<br> just a girl trying to learn and build cool stuff 💻 <br>still learning, still experimenting, still showing up<br> 
+<br>-🎶 when not coding, you’ll find me either sleeping, reading, or lost in music, films 
+<br>-🤍 let’s connect if you're into tech <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaish.program) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thevaishndra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thevaishndra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thevaishndra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrav306m@gmail.com) 
